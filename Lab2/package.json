@@ -1,0 +1,15 @@
+{
+  "name": "lab2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lab2.js",
+  "scripts": {
+    "start": "node lab2.js"
+  },
+  "keywords": [],
+  "author": "daniel pogorevici",
+  "license": "ISC",
+  "dependencies": {
+    "nodeplotlib": "^0.7.3"
+  }
+}

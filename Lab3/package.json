@@ -1,0 +1,16 @@
+{
+  "name": "lab3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lab3.js",
+  "scripts": {
+    "start": "node lab3.js"
+  },
+  "keywords": [],
+  "author": "<daniel pogorevici>",
+  "license": "ISC",
+  "dependencies": {
+    "nodeplotlib": "^0.7.3",
+    "xlsx": "^0.16.9"
+  }
+}

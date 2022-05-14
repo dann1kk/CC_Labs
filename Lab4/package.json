@@ -1,0 +1,15 @@
+{
+  "name": "lab4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lab4.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "daniel pogorevici",
+  "license": "ISC",
+  "dependencies": {
+    "nodeplotlib": "^0.7.3"
+  }
+}
